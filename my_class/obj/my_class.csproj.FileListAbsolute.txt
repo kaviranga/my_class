@@ -1,0 +1,5 @@
+E:\visual C# projects\my_class\my_class\bin\Debug\my_class.dll
+E:\visual C# projects\my_class\my_class\bin\Debug\my_class.pdb
+E:\visual C# projects\my_class\my_class\obj\Debug\ResolveAssemblyReference.cache
+E:\visual C# projects\my_class\my_class\obj\Debug\my_class.dll
+E:\visual C# projects\my_class\my_class\obj\Debug\my_class.pdb

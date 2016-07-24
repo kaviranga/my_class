@@ -1,3 +1,7 @@
+//This code is written by W.A.D.K.Gunawardhana Copyright 2011
+//released under MIT licence
+//This class library is distributed without warranty
+//You can feel free to edit them
 using System;
 using System.Collections.Generic;
 using System.Text;

@@ -1,5 +1,5 @@
 # my_class
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hyperium/hyper/master/LICENSE)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]()
 
 This is simple class library written in C# that can use in any Visual C++,F# VB.NET project
 

@@ -3,6 +3,6 @@
 
 This is simple class library written in C# that can use in any Visual C++,F# VB.NET project
 
-# How to use this
+## How to use this
 To use this in Windows Form Application follow the instructions in the project wiki
 

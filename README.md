@@ -7,7 +7,7 @@
 ## How to use this ?
 * To use this in Windows Form Application follow the instructions in the project wiki.
 
-## Is there any vesrsion conflicts?
+## Is there any version conflicts?
 * This project is coded using Visual Studio 2005.
 * When you open the project using Visual Studio 2012 , 2013 or 2015 you'll ask a question to convert the project to the new version (Visual Studio Conversion Wizard). 
 * Then proceed to next step and you'll have the version upgraded "my_class" project.
